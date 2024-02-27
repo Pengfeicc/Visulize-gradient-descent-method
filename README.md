@@ -1,4 +1,4 @@
-The toturai: refer to ([https://pytorch.org/get-started/previous-versions/](https://github.com/zyxue/sutton-barto-rl-exercises/tree/master/supervised/gradient_descent)https://github.com/zyxue/sutton-barto-rl-exercises/tree/master/supervised/gradient_descent) 
+The toturai: the code is modified on ([https://pytorch.org/get-started/previous-versions/](https://github.com/zyxue/sutton-barto-rl-exercises/tree/master/supervised/gradient_descent)https://github.com/zyxue/sutton-barto-rl-exercises/tree/master/supervised) 
 
 # BGD: batch gradient descent; SGD: stochastic gradient descent; mBGD:mini-batch gradient descent
 <p align="center">
